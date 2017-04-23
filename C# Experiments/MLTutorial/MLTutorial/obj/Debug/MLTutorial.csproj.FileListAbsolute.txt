@@ -1,0 +1,11 @@
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\bin\Debug\MLTutorial.exe.config
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\obj\Debug\MLTutorial.csprojResolveAssemblyReference.cache
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\obj\Debug\MLTutorial.Form1.resources
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\obj\Debug\MLTutorial.Properties.Resources.resources
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\obj\Debug\MLTutorial.csproj.GenerateResource.Cache
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\bin\Debug\MLTutorial.exe
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\bin\Debug\MLTutorial.pdb
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\obj\Debug\MLTutorial.exe
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\obj\Debug\MLTutorial.pdb
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\bin\Debug\MathNet.Numerics.dll
+C:\Users\liviu.sosu\Desktop\Machine  Learning\MLTutorial\MLTutorial\bin\Debug\MathNet.Numerics.xml
