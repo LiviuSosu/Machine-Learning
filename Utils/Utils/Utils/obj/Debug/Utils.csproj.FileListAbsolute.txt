@@ -1,0 +1,12 @@
+C:\Users\liviu.sosu\Desktop\Utils\Utils\bin\Debug\Utils.exe.config
+C:\Users\liviu.sosu\Desktop\Utils\Utils\bin\Debug\Utils.exe
+C:\Users\liviu.sosu\Desktop\Utils\Utils\bin\Debug\Utils.pdb
+C:\Users\liviu.sosu\Desktop\Utils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\liviu.sosu\Desktop\Utils\Utils\obj\Debug\Utils.exe
+C:\Users\liviu.sosu\Desktop\Utils\Utils\obj\Debug\Utils.pdb
+C:\Users\liviu.sosu\Work\Projects\Tutorial\Machine  Learning\Machine-Learning\Utils\Utils\Utils\bin\Debug\Utils.exe.config
+C:\Users\liviu.sosu\Work\Projects\Tutorial\Machine  Learning\Machine-Learning\Utils\Utils\Utils\obj\Debug\Utils.exe
+C:\Users\liviu.sosu\Work\Projects\Tutorial\Machine  Learning\Machine-Learning\Utils\Utils\Utils\obj\Debug\Utils.pdb
+C:\Users\liviu.sosu\Work\Projects\Tutorial\Machine  Learning\Machine-Learning\Utils\Utils\Utils\bin\Debug\Utils.exe
+C:\Users\liviu.sosu\Work\Projects\Tutorial\Machine  Learning\Machine-Learning\Utils\Utils\Utils\bin\Debug\Utils.pdb
+C:\Users\liviu.sosu\Work\Projects\Tutorial\Machine  Learning\Machine-Learning\Utils\Utils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
